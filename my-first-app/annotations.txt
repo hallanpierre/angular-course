@@ -1,4 +1,4 @@
 Angular Couse
 
-ng new nameApp - cria aplicativo Angula de nome nameApp
+ng new nameApp - cria aplicativo Angular de nome nameApp
 ng serve - roda o app
