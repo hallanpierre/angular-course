@@ -2,3 +2,4 @@ Angular Couse
 
 ng new nameApp - cria aplicativo Angular de nome nameApp
 ng serve - roda o app
+ng g c name (ng generate component <name>) gera um component via linha de comando
